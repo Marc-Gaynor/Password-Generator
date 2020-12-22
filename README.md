@@ -5,6 +5,9 @@ This week’s homework requires you to create an application that an employee ca
 
 The password can include special characters. If you’re unfamiliar with these, see this [list of Password Special Characters from the OWASP Foundation](https://www.owasp.org/index.php/Password_special_characters).
 
+
+<img src="images\password_gen.jpg">
+
 ## User Story
 
 ```
